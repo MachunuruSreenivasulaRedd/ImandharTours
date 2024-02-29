@@ -81,7 +81,7 @@ const Home = () => {
       </div>
     </div>
     <div className='WhyChooseSection'>
-      <h1>Why Choose Us?</h1>
+      <h1>Welcome to Mumbai's Premier Taxi Service</h1>
       <hr className='liner'/>
       <ol type="1">
         <li><span >Reliability:</span> Our fleet of well-maintained vehicles ensures reliability and comfort throughout your journey.</li>
