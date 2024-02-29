@@ -24,6 +24,12 @@ li{
     font-size: 15px;
     font-weight: 500;
 }
+.explore{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 10px;
+}
 .WhyChooseSection{
     display: flex;
     flex-direction: column;

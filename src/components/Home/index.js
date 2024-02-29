@@ -81,7 +81,7 @@ const Home = () => {
       </div>
     </div>
     <div className='WhyChooseSection'>
-      <h1>Welcome to Mumbai's Premier Taxi Service</h1>
+      <h1>Why Choose Us?</h1>
       <hr className='liner'/>
       <ol type="1">
         <li><span >Reliability:</span> Our fleet of well-maintained vehicles ensures reliability and comfort throughout your journey.</li>
@@ -91,6 +91,7 @@ const Home = () => {
         <li><span>Affordability:</span> Enjoy competitive rates with transparent pricing. No hidden fees or surprises!</li>
         <li><span>Customer satisfaction:</span> We are committed to providing exceptional service, ensuring that every ride exceeds your expectations.</li>
       </ol>
+      <h1 className='explore'>Explore Mumbai and Maharashtra hassle-free with our trusted taxi service. <span>Book Your Ride</span> today and experience the difference! </h1>
     </div>
     {/* <div className='quote'>
       <h1 className='headLine'>Best Taxi Service in Chandigarh, Now Operational in Delhi & <br />Gurgaon!</h1>
