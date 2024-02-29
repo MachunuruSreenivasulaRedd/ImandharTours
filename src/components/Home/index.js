@@ -243,7 +243,7 @@ Depending on your specific travel needs, you can choose to hire a taxi in Chandi
   <li>Luxury Cabs on Rent In Chandigarh</li>
 </ol>
 </p>
-    </div> */} */}
+    </div> */}
         </div>
     )
 }
