@@ -93,6 +93,18 @@ const Home = () => {
       </ol>
       <h1 className='explore'>Explore Mumbai and Maharashtra hassle-free with our trusted taxi service. <span>Book Your Ride</span> today and experience the difference! </h1>
     </div>
+    <div className='aboutSection'>
+      <h1 className='aboutHeader'>About Us</h1>
+      <hr className='liner'/>
+      <p className='aboutContent'>With a mission of transforming long-distance commute into a memorable and enjoyable experience, Imandar Tour and Travels has been serving travellers across western and Central India over last 15+ years. In this time, Imandar Tour and Travels  has established it’s name as The Best Cab Service in Mumbai ,& Maharastra &  as well as The Best Cab service in Mumbai & Maharastra including Pune , and Nagpur.
+True to it's stature, Imandar  has always traveled an extra mile with the sole aim of customer satisfaction.Providing consumer centric services in the most economical prices, we are constantly innovating to fulfill all the local as well as outstation travel related needs of our clients & provide them with an ultimate experience that they look forward to.
+
+With a highly-experienced and trained fleet of drivers, we assure you top-notch quality and safety at all times.
+Imandar  Cabs have a dedicated 24*7 customer care panel, which would be happy to be at your disposal at any instance.
+
+Our former and dedicated customer base is proof of our impeccably satisfactory service. We are justifiably proud of our record of providing highly rated 5- Star customer services, with an equally quick and responsive 1-hour turnaround time on almost every request.
+With a vast experience of working with superior clientele including multiple Fortune 50 companies.</p>
+    </div>
     {/* <div className='quote'>
       <h1 className='headLine'>Best Taxi Service in Chandigarh, Now Operational in Delhi & <br />Gurgaon!</h1>
       <hr />

@@ -37,7 +37,9 @@ li{
     align-items: center;
     background-color: whitesmoke;
     margin-top: 30px;
+    color:#1E266D;
 }
+
 .liner{
     height:9px;
     width:200px;
@@ -105,10 +107,10 @@ span{
     font-size: 32px;
     color:#280015;
 }
-.aboutHeadLine{
-    margin:70px;
+.aboutHeader{
+    margin:20px;
     font-size: 32px;
-    color:#280015;
+    color:#ffffff;
 }
 .quoteContent{
     text-align: left;
@@ -117,6 +119,10 @@ span{
     align-self: center;
     margin-left:80px;
     margin-right:80px;
+}.aboutContent{
+    line-height: 30px;
+    text-align: center;
+    font-weight: 500;
 }
 .carImg{
     width:250px;
@@ -136,7 +142,10 @@ span{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin:30px;
+    background-color: #473d3a;
+    margin-top:30px;
+    color:#ffffff;
+    text-align: center;
 }
 .aboutContent{
     text-align: left;
